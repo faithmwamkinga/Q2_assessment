@@ -72,3 +72,23 @@ let nigerian=new NigerianRecipe("Flour, water","45 minures","Boiling and stirrin
 console.log(nigerian.displayFood("Fufu"));
 let ethiopian=new EthiopianRecipe("Wheat flour, yoghurt,salt","2 hrs","fermentation","adds minerals")
 console.log(ethiopian.displayFood("Injera"));
+
+
+// **Wildlife Preservation:** You're a wildlife conservationist working on a
+// program to track different species in a national park. Each species has its own
+// characteristics and behaviors, such as its diet, typical lifespan, migration
+// patterns, etc. Some species might be predators, others prey. You'll need to
+
+// create classes to model `Species`, `Predator`, `Prey`, etc., and think about how
+// these classes might relate to each other through inheritance.
+
+//pseudocode
+
+//// # Input - diet, typical lifespan, migration
+// patterns
+// #Output- 
+// #Process - Create a class Species class, with attriutes in the constructor,
+// #  then subclasses Predator`, `Prey that inherit attributes from  class Species then create methods 
+// # 
+
+// class 
