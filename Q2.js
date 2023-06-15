@@ -86,9 +86,13 @@ console.log(ethiopian.displayFood("Injera"));
 
 //// # Input - diet, typical lifespan, migration
 // patterns
-// #Output- 
+// #Output- Information about animals
 // #Process - Create a class Species class, with attriutes in the constructor,
 // #  then subclasses Predator`, `Prey that inherit attributes from  class Species then create methods 
 // # 
 
-// class 
+class Species{
+    constructor(diet,lifespan, migration){
+
+    }
+}
